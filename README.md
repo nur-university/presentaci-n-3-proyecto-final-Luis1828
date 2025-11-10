@@ -8,6 +8,7 @@ Este repositorio contiene las interfaces públicas del proyecto de crowdfunding 
 - Detalle del proyecto (detalle-proyecto.html)
 - Registro de usuarios (registro.html)
 - Autenticación / Login (login.html)
+- Roles de Administrador y Usuario
 - CSS y JS organizados en carpetas
 - Diseño responsive para móvil, tablet y PC
 
