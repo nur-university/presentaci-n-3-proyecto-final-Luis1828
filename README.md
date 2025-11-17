@@ -17,8 +17,9 @@ Abrir `index.html` directamente en el navegador,
 o servir localmente con cualquier servidor web estático.
 
 ### Usuarios de prueba
-Admin User
+- Admin User
 admin@crowdfunding101.com
+
 admin123
 
 María González  email:"maria@example.com"  password:"user123"
